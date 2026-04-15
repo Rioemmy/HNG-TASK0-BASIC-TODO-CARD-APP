@@ -1,2 +1,2 @@
 # HNG-TASK0-BASIC-TODO-CARD-APP
-a basic to dodo cards app 
+a basic to todo cards app 
